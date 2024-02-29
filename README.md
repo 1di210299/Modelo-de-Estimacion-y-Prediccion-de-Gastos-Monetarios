@@ -23,8 +23,7 @@ El objetivo de este proyecto es proporcionar una herramienta para estimar y prev
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/modelo-gastos-inei-peru.git
-cd modelo-gastos-inei-peru
+git clone https://github.com/tu_usuario/Modelo-de-Estimacion-y-Prediccion-de-Gastos-Monetarios
 ```
 
 2. Instalar las dependencias:
